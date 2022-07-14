@@ -1,3 +1,8 @@
+Demo:
+![Alt Text](demo.gif)
+\
+\
+\
 A Lua script using the Aseprite API to provide a method for deleting large chunks of frames in steps.
 \
 \
@@ -12,10 +17,3 @@ Configure
 
 \
 Includes a small preview showing the pattern of which frames will be deleted (highlighted in black)
-\
-\
-\
-\
-Demo:
-![Alt Text](demo.gif)
-
