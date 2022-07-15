@@ -6,7 +6,7 @@ Demo:
 A Lua script using the Aseprite API to provide a method for deleting large chunks of frames in steps.
 \
 \
-Useful for reducing the framecount of a source animation when rotoscoping.
+Useful for reducing the framecount of a source gif.
 \
 \
 \
